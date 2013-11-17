@@ -3,6 +3,13 @@ dota-marketplace-bot
 
 Keeps an eye out for gems on the dota.
 
+Individual Botting Procedure
+--------------------
+1. Refresh page
+2. Check the price of the first item in the list
+3. If it satisfies the desired price range, click on the buy button, and then the confirm payment button in the popup
+4. Repeat from step 1
+
 Windows Installation
 --------------------
 1. Install cygwin cygwin.com/install.html
