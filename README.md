@@ -21,3 +21,6 @@ Windows Installation
 
 Ubuntu Installation
 -------------------
+1. `git clone git@github.com:sunapi386/dota-marketplace-bot.git`
+2. `bundle install`
+3. `ruby MarketBot.rb`
